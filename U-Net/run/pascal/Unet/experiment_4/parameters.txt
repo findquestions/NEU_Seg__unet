@@ -1,0 +1,7 @@
+datset:pascal
+lr:0.05
+lr_scheduler:poly
+loss_type:ce
+epoch:400
+base_size:512
+crop_size:512
